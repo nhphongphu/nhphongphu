@@ -13,5 +13,5 @@ Languages and Tools:
 
 Visual Studio Code HTML5 CSS3 JavaScript React Node.js Git GitHub Terminal
 
-⚡ GitHub Stats
+---
 [![nhphongphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhphongphu)](https://github.com/anuraghazra/github-readme-stats)
