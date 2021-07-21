@@ -8,6 +8,8 @@ I'm a Developer!!
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with other content creators
 
+---
+![nhphong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true)
 
 Languages and Tools:
 
