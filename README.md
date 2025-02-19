@@ -11,6 +11,12 @@
 
 <hr>
 
+<div>
+  <p align=right>
+    <img src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight">
+  </p>
+</div>
+
 - 🐍 Python: junior
 - 🦈 Docker: senior
 - 📦 JavaScript: senior
@@ -25,18 +31,7 @@
 
 <div>
   <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight">
-  </p>
-</div>
-
-<div>
-  <p align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
   </p>
 </div>
 
-<div>
-  <p align=center>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nhphongphu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  </p>
-</div>
