@@ -11,11 +11,7 @@
 
 <hr>
 
-<div>
-  <p align=right>
-    <img src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight">
-  </p>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
