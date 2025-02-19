@@ -6,9 +6,7 @@
 
 <hr>
 
-[//]: https://github-readme-stats.vercel.app/api?username=nhphongphu&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20nhphongphu%20is%20vibrating
-
-<img align="right" src="https://github-readme-stats-nhphongphu.vercel.app/api?username=nhphongphu&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="nhphongphu's GitHub Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphongphu's GitHub Stats">
 
 - 🐍 Python: junior
 - 🦈 Docker: senior
