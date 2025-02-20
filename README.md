@@ -11,25 +11,16 @@
 
 <hr>
 
-<table>
-    <tr>
-        <td>
-            <ul>
-                <li> 🐍 Python: junior</li>
-                <li> 🦈 Docker: senior</li>
-                <li> 📦 JavaScript: senior</li>
-                <li> 👀 C/C++: senior</li>
-                <li> 🎨 Graphic design: junior</li>
-                <li> 📱 GUI: junior</li>
-                <li> 🍥 OS: Arch Linux w/ Hyprland    </li>
-                <li> 💭 Pronouns: he/him</li>
-            </ul>
-        </td>
-        <td>
-            <img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
-        </td>
-    </tr>
-</table>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
+
+- 🐍 Python: junior
+- 🦈 Docker: senior
+- 📦 JavaScript: senior
+- 👀 C/C++: senior
+- 🎨 Graphic design: junior
+- 📱 GUI: junior
+- 🍥 OS: Arch Linux w/ Hyprland
+- 💭 Pronouns: he/him
 
 <div>
   <p align=center>
@@ -38,7 +29,4 @@
 </div>
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nhphongphu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
