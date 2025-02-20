@@ -21,7 +21,7 @@
                 <li> 👀 C/C++: senior</li>
                 <li> 🎨 Graphic design: junior</li>
                 <li> 📱 GUI: junior</li>
-                <li> 🍥 OS: Arch Linux w/ Hyprland</li>
+                <li> 🍥 OS: Arch Linux w/ Hyprland    </li>
                 <li> 💭 Pronouns: he/him</li>
             </ul>
         </td>
