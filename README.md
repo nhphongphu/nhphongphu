@@ -13,13 +13,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
 
-<div>
-  <p align=right>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
-  </p>
-</div>
-
-
 - 🐍 Python: junior
 - 🦈 Docker: senior
 - 📦 JavaScript: senior
@@ -28,9 +21,12 @@
 - 📱 GUI: junior
 - 🍥 OS: Arch Linux w/ Hyprland
 - 💭 Pronouns: he/him
-- 📫 E-mail: [astralveil](mailto:astralveil@gmail.com)
-- 💬 Telegram: [@AstralVeil](https://t.me/astralveil)
-- 📣 Babel: `cmn`
+
+- <div>
+  <p align=right>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
+  </p>
+</div>
 
 
 
