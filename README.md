@@ -11,19 +11,28 @@
 
 <hr>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
-
-- 🐍 Python: junior
-- 🦈 Docker: senior
-- 📦 JavaScript: senior
-- 👀 C/C++: senior
-- 🎨 Graphic design: junior
-- 📱 GUI: junior
-- 🍥 OS: Arch Linux w/ Hyprland
-- 💭 Pronouns: he/him
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li> 🐍 Python: junior</li>
+                <li> 🦈 Docker: senior</li>
+                <li> 📦 JavaScript: senior</li>
+                <li> 👀 C/C++: senior</li>
+                <li> 🎨 Graphic design: junior</li>
+                <li> 📱 GUI: junior</li>
+                <li> 🍥 OS: Arch Linux w/ Hyprland</li>
+                <li> 💭 Pronouns: he/him</li>
+            </ul>
+        </td>
+        <td>
+            <img align="right" src="https://github-readme-stats.vercel.app/api?username=nhphongphu&show_icons=true&theme=tokyonight" alt="nhphonphu's GitHub Stats">
+        </td>
+    </tr>
+</table>
 
 <div>
-  <p align=right>
+  <p align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
   </p>
 </div>
