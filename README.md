@@ -27,7 +27,7 @@
 - 📣 Babel: `cmn`
 
 <div>
-  <p align=center>
+  <p align=right>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
   </p>
 </div>
