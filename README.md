@@ -22,7 +22,7 @@
 - 🍥 OS: Arch Linux w/ Hyprland
 - 💭 Pronouns: he/him
 
-- <div>
+<div>
   <p align=right>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhphongphu&layout=compact&theme=tokyonight">
   </p>
